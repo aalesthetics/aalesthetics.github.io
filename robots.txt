@@ -1,0 +1,3 @@
+# Antes de publicar (fase 8) el sitio no debe indexarse.
+User-agent: *
+Disallow: /
